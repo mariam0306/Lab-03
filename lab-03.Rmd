@@ -71,13 +71,13 @@ staff <- read_csv("data/instructional-staff.csv")
 ## Exercise 1
 
 What is the difference between *wide format* data and *long format* data?
-
+wide format is when the data goes across, long is when it goes down.
 
 Is the format `staff` data *wide* or *long*?
-
+wide
 
 How many observations are there in the data set?
-
+55
 
 
 
